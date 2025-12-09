@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "マシュマロ",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-09T08:17:46.777591Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マシュマロ・マキアート",
+      "artist": "KOTONOHOUSE feat. Yunomi & くいしんぼあかちゃん",
+      "has_synced": true,
+      "path": "select/01_マシュマロ・マキアート_KOTONOHOUSE_feat._Yunomi_&_くいしんぼあかちゃん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マシュマロ・マキアート",
+      "artist": "KOTONOHOUSE & Yunomi feat. くいしんぼあかちゃん",
+      "has_synced": true,
+      "path": "select/02_マシュマロ・マキアート_KOTONOHOUSE_&_Yunomi_feat._くいしんぼあかちゃん.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マシュマロ・マキアート",
+      "artist": "KOTONOHOUSE & Yunomi",
+      "has_synced": true,
+      "path": "select/03_マシュマロ・マキアート_KOTONOHOUSE_&_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マシュマロ",
+      "artist": "張國榮",
+      "has_synced": true,
+      "path": "select/04_マシュマロ_張國榮.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マシュマロ・マキアート",
+      "artist": "KOTONOHOUSE",
+      "has_synced": true,
+      "path": "select/05_マシュマロ・マキアート_KOTONOHOUSE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マシュマロ・マキアート",
+      "artist": "Momobako",
+      "has_synced": true,
+      "path": "select/06_マシュマロ・マキアート_Momobako.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マシュマロ・マキアート",
+      "artist": "桃箱",
+      "has_synced": true,
+      "path": "select/07_マシュマロ・マキアート_桃箱.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "マシュマロ・マキアート (feat. くいしんぼあかちゃん)",
+      "artist": "KOTONOHOUSE & Yunomi",
+      "has_synced": true,
+      "path": "select/08_マシュマロ・マキアート_(feat._くいしんぼあかちゃん)_KOTONOHOUSE_&_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "マシュマロ・マキアート",
+      "artist": "Yunomi×桃箱",
+      "has_synced": false,
+      "path": "select/09_マシュマロ・マキアート_Yunomi×桃箱.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "マシュマロ・マキアート",
+      "artist": "KOTONOHOUSE, Yunomi, くいしんぼあかちゃん",
+      "has_synced": false,
+      "path": "select/10_マシュマロ・マキアート_KOTONOHOUSE,_Yunomi,_くいしんぼあかちゃん.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "マシュマロ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/11_マシュマロ_DECO_27.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マシュマロ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_マシュマロ_DECO_27.txt"
+    }
+  ]
+}
